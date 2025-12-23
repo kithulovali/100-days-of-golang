@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	p := pointers.LearningPointers("jean ")
+	p := pointers.LearningPointers("jean")
 	fmt.Println(p)
 }
